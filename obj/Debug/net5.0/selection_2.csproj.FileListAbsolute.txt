@@ -1,0 +1,16 @@
+C:\Class_work\selection_2\bin\Debug\net5.0\selection_2.exe
+C:\Class_work\selection_2\bin\Debug\net5.0\selection_2.deps.json
+C:\Class_work\selection_2\bin\Debug\net5.0\selection_2.runtimeconfig.json
+C:\Class_work\selection_2\bin\Debug\net5.0\selection_2.runtimeconfig.dev.json
+C:\Class_work\selection_2\bin\Debug\net5.0\selection_2.dll
+C:\Class_work\selection_2\bin\Debug\net5.0\ref\selection_2.dll
+C:\Class_work\selection_2\bin\Debug\net5.0\selection_2.pdb
+C:\Class_work\selection_2\obj\Debug\net5.0\selection_2.csprojAssemblyReference.cache
+C:\Class_work\selection_2\obj\Debug\net5.0\selection_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Class_work\selection_2\obj\Debug\net5.0\selection_2.AssemblyInfoInputs.cache
+C:\Class_work\selection_2\obj\Debug\net5.0\selection_2.AssemblyInfo.cs
+C:\Class_work\selection_2\obj\Debug\net5.0\selection_2.csproj.CoreCompileInputs.cache
+C:\Class_work\selection_2\obj\Debug\net5.0\selection_2.dll
+C:\Class_work\selection_2\obj\Debug\net5.0\ref\selection_2.dll
+C:\Class_work\selection_2\obj\Debug\net5.0\selection_2.pdb
+C:\Class_work\selection_2\obj\Debug\net5.0\selection_2.genruntimeconfig.cache
